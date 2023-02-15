@@ -1,0 +1,16 @@
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 13vh;
+}
+
+button{
+    height: fit-content;
+}
+
+p{
+    padding-left: 5%;
+    min-height: 73vh;
+    background-color: lightgrey;
+}
